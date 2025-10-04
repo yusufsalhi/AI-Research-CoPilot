@@ -16,7 +16,7 @@ Technologies used:
 - Streamlit – Web interface for uploading PDFs and querying.
 - LangChain – For chaining document retrieval and LLM queries.
 - HuggingFace Embeddings – For converting PDF text into vector representations.
-- Ollama LLaMA3 – Local LLM for answering questions.
+- OpenAI API online integration.
 - FAISS – Vector database for efficient similarity search.
 
 ---
