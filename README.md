@@ -26,7 +26,7 @@ Technologies used:
 1. Upload one PDF → get answers to your questions about its content.
 2. Upload two PDFs → get answers from both PDFs and compare them.
 3. Vector search powered by HuggingFace embeddings + FAISS.
-4. Offline LLM answering using LLaMA3 via Ollama.
+4. Open AI API online integreation.
 
 ---
 
